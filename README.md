@@ -24,7 +24,13 @@ A full-stack web service for calculating the manufacturing cost of 3D-printed pa
 ### 1. Clone & configure
 
 ```bash
-git clone https://github.com/Otakanutyy/3d_model_price_calculator.git && cd 3d_model_price_calculator
+git clone https://github.com/Otakanutyy/3d_model_price_calculator.git
+```
+
+``` bash
+cd 3d_model_price_calculator
+```
+```bash
 cp .env.example .env
 ```
 
