@@ -67,7 +67,7 @@ Go to **http://localhost:5173** in your browser.
 5. **Upload a 3D model** — Drag & drop (or click) to upload an STL/OBJ/3MF file. The model will be processed in the background and rendered in the 3D viewer.
 6. **Configure parameters** — Adjust technology, material, print settings, and economics in the left panel.
 7. **Calculate price** — Click "Calculate" in the right panel to see the full cost breakdown.
-8. **Generate AI text** — (Section 6, if implemented) Generate a commercial description.
+8. **Generate AI text** — Generate a commercial description.
 
 ### Via curl (API)
 
