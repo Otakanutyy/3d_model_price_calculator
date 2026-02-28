@@ -1,0 +1,7 @@
+celery[redis]==5.4.0
+redis==5.2.1
+trimesh==4.5.3
+numpy==2.2.2
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+manifold3d==3.0.1
